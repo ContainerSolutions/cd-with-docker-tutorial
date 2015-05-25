@@ -1,2 +1,1 @@
-# cd-with-docker-tutorial
-Continuous Integration and Delivery with Docker
+# Continuous Integration and Delivery with Docker
